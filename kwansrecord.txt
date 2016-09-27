@@ -1,0 +1,26 @@
+8.24:学习后台使用的smarty模板技术，了解后台使用这个模板的方式，即视图html文件怎么和php逻辑文件交接
+8.25:可以显示对应的模板了
+8.26:添加其他模块的模板，调整新模版的样式
+
+
+8.29:allListings可以分页读取读取数据库的数据，到达第一，最后，前一和后一页，还缺少搜索，AddListing，Edit，Delete功能
+8.30:大的页面（例如：stores一个总的预览）做好分页读取读取数据库的数据，到达第一，最后，前一和后一页，还缺少搜索，Add，Edit，Delete功能和大页面对应小页面（例如：具体每个store）的展示
+8.31:alllisting页面完成搜索功能
+9.1:alllisting页面完成date的排序功能,完成listingStatus的筛选功能
+9.2:完善listingStatus的筛选功能出现的问题
+
+9.5：完成页面：user，该页面是用户信息的展示，可以从各个listing的详细信息里面选择user进而查看user信息
+9.6：完成页面：state listing（add、delete、edit除外），该页面是以state为分类标准的listing信息展示
+9.7：完成页面：suburb listing（add、delete、edit除外），该页面是以suburb为分类标准的listing信息展示
+9.8：完成页面：region listing（add、delete、edit除外），该页面是以region为分类标准的listing信息展示
+9.9：完成页面：brand listing和store listing（add、delete、edit除外），该页面分别是以brand和chain store为分类标准的listing信息展示
+
+9.12：完成对store的delete功能
+9.13、14：add和edit功能的编写（add和edit是有部分相同的）
+
+9.18：完成对brand、suburb和region的delete功能
+9.19-20：完成category页面
+9.21-23：完成edit、delete和add功能
+（距离完成全部内容还剩下第一个页面allListing内容的显示以及最后一个页面listing内容的填充以及管理员对其内容的操作）
+
+9.26-27:后台的修改：alllisting页面加上state，region，suburb字段，category页面加上第一级的分类筛选
